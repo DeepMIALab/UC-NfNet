@@ -1,4 +1,4 @@
-# UC-NfNet
+# UC-NfNet: Ulcerative Collitis Grade Classifer
 
 <img src="imgs/overview.png" width="1200px"/>
 
@@ -142,11 +142,11 @@ This work was funded by [TUBITAK](https://www.tubitak.gov.tr/) for International
 If you find our work useful in your research or if you use parts of this code please consider citing our paper:
 
 ```
-@misc{ozyoruk2021deep,
-      title={Deep Learning-based Frozen Section to FFPE Translation}, 
-      author={Kutsev Bengisu Ozyoruk and Sermet Can and Guliz Irem Gokceler and Kayhan Basak and Derya Demir and Gurdeniz Serin and Uguray Payam Hacisalihoglu and Berkan Darbaz and Ming Y. Lu and Tiffany Y. Chen and Drew F. K. Williamson and Funda Yilmaz and Faisal Mahmood and Mehmet Turan},
-      year={2021},
-      eprint={2107.11786},
+@misc{durmus2022,
+      title={UC-NfNet: Ulcerative Collitis Grade Classifer}, 
+      author={Furkan Durmus and Mehmet Turan},
+      year={2022},
+      eprint={2201.11786},
       archivePrefix={arXiv},
       primaryClass={eess.IV}
 }
