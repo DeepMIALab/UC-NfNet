@@ -28,7 +28,7 @@ Our study contains a total of 673 images from the UC endoscopy images;
 - 218 grade 2 
 - 123 grade 3
 
-UC labelled dataset is publicly available in [Mendeley](https:)
+UC labelled dataset is publicly available on the [link](https:)
 
 
 
