@@ -2,7 +2,7 @@
 
 <img src="imgs/overview.png" width="1200px"/>
 
-### [Paper]() |  [Dataset]() | [Pretrained Models]() | [Website](https://deepmia.boun.edu.tr/) 
+### [Paper]() |  [Dataset](https://drive.google.com/drive/folders/1M4dr1PMULQwm_Hyn14Lr7r3c_uGOsp1Q?usp=sharing) | [Pretrained Models]() | [Website](https://deepmia.boun.edu.tr/) 
 
 In this work, we propose an AI-assisted and easily interpretable ulcerative collitis (UC) classification system supported by an additional synthetic data generation approach that confidentially and accurately classifies endoscopic images from UC. Additionaly, we introduce new 352 UC endoscopy images were labelled by our experienced gastroenterologists.
 
