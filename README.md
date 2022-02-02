@@ -2,7 +2,7 @@
 
 <img src="imgs/overview.png" width="1200px"/>
 
-### [Paper]() |  [Dataset](https://drive.google.com/drive/folders/1M4dr1PMULQwm_Hyn14Lr7r3c_uGOsp1Q?usp=sharing) | [Pretrained Models]() | [Website](https://deepmia.boun.edu.tr/) 
+### [Paper]() |  [Dataset](https://drive.google.com/drive/folders/1M4dr1PMULQwm_Hyn14Lr7r3c_uGOsp1Q?usp=sharing) | [Pretrained Models](https://drive.google.com/drive/folders/1CRTdxtt1on5YnV3zthkATwNrMOwkPd-c?usp=sharing) | [Website](https://deepmia.boun.edu.tr/) 
 
 In this work, we propose an AI-assisted and easily interpretable ulcerative collitis (UC) classification system supported by an additional synthetic data generation approach that confidentially and accurately classifies endoscopic images from UC. Additionaly, we introduce new 352 UC endoscopy images were labelled by our experienced gastroenterologists.
 
@@ -54,7 +54,7 @@ cd Ulcer_grade_classificaiton
 
 ### Training and Test
 
-- The image identity numbers which were used in train, validation and test sets are given as .txt files in [docs/](https://github.com/DeepMIALab/AI-FFPE/tree/main/docs) for both Brain and Lung dataset. To replicate the results, you may download [dataset]() and create a subset using these .txt files.
+- The image identity numbers which were used in train, validation and test sets are given as .txt files in [docs/](https://github.com/DeepMIALab/AI-FFPE/tree/main/docs) for both Brain and Lung dataset. To replicate the results, you may download [dataset](https://drive.google.com/drive/folders/1M4dr1PMULQwm_Hyn14Lr7r3c_uGOsp1Q?usp=sharing) and create a subset using these .txt files.
 
 The data used for training are expected to be organized as follows:
 ```bash
@@ -122,7 +122,7 @@ The test results will be saved to a html file here: ``` ./results/${result_dir_n
 
 
 ### Apply a pre-trained UC Grade Classificaiton model and evaluate
-For reproducability, you can download the pretrained models for each algorithm [here.]()
+For reproducability, you can download the pretrained models for each algorithm [here.](https://drive.google.com/drive/folders/1CRTdxtt1on5YnV3zthkATwNrMOwkPd-c?usp=sharing)
 
 ## Issues
 
@@ -146,7 +146,7 @@ If you find our work useful in your research or if you use parts of this code pl
       title={UC-NfNet: Ulcerative Collitis Grade Classifer}, 
       author={Furkan Durmus and Mehmet Turan},
       year={2022},
-      eprint={2201.11786},
+      eprint={2202.11786},
       archivePrefix={arXiv},
       primaryClass={eess.IV}
 }
