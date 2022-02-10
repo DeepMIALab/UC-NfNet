@@ -146,9 +146,6 @@ If you find our work useful in your research or if you use parts of this code pl
       title={UC-NfNet: Ulcerative Collitis Grade Classifer}, 
       author={Furkan Durmus and Mehmet Turan},
       year={2022},
-      eprint={2202.11786},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV}
 }
 ```
 
